@@ -1,4 +1,9 @@
 {
-    "source": "/",
-    "destination": "https://paw.txukuna.dev"
-  }
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://paw.txukuna.dev",
+            "permanent": false
+        }
+    ]
+}
